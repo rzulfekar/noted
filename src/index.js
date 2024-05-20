@@ -10,7 +10,7 @@ import Application from './components/Application';
 import reducers from './reducers';
 
 const store = createStore(reducers);
-
+// test
 
 render(
   <Provider store={store}>
